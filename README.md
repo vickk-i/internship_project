@@ -6,7 +6,7 @@
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard_screenshot.png)  
+![image](https://github.com/user-attachments/assets/f7c4458c-5fcd-4d01-8509-d4a6f5ac678e)
 <sub>*Visuals built in Power BI showcasing no-show trends by age, gender, weekday, and SMS reminders.*</sub>
 
 ---
